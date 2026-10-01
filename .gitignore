@@ -28,3 +28,4 @@ venv/
 dist/
 build/
 .DS_Store
+Claude outputs/
